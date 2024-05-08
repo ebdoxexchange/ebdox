@@ -190,4 +190,5 @@ Iniciou a criação de uma aliança ecológica para trabalhar com parceiros ecol
 
 ## Confira nosso site e nossa organização para saber mais
 [Ebdox Exchange](https://www.ebdox.co)
+
 [Ebdox Blog](https://ebdox.github.io)
