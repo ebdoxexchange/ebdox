@@ -1,5 +1,5 @@
 <p align="center">
-<img src="/img.jpg" width="300px" height="300px" alt="ebdox logo" />
+<img src="https://github.com/ebdoxexchange/ebdox/blob/main/EBDOX%20Logo_Vertical.jpg" width="300px" height="300px" alt="ebdox logo" />
 </p>
 
 # Ebdox Livro Branco
